@@ -1,0 +1,2 @@
+2024-12-15 14:29:44,504 - ERROR - Model training failed: Input y contains NaN.
+2024-12-15 14:30:16,819 - ERROR - Prediction error: Pipeline is not fitted yet.
